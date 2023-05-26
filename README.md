@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## PROGRAM
 ```
-Developed by: PREMA LATHA S
-Register no: 212222230112
+Developed by: P.Hemasonica
+Register no: 212222230048
 ```
 # CODE
 ```
